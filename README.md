@@ -5,7 +5,7 @@
 ```bash
 Suit-School-Test-Project
 ├── ContentView.swift
-├── Constants
+├── Configuration
 │   └── APIConfig.swift
 ├── Models
 │   └── UserModel.swift
