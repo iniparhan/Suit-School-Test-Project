@@ -9,5 +9,5 @@ import Foundation
 
 enum APIConfig {
     static let baseURL = "https://reqres.in/api"
-    static let apiKey = "free_user_3EovxSi6yCvEjZY7klnmnemD90p"
+    static let apiKey = "PUT_YOUR_API_KEY_HERE"
 }
